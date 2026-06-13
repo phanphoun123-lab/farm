@@ -1,0 +1,6 @@
+{
+  "name": "FarmJumnoy",
+  "description": "Cambodia's digital agricultural marketplace connecting farmers, buyers, and traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
